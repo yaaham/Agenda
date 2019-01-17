@@ -1,6 +1,6 @@
 # Calender
 ## Installation
-* `git clone https://github.com/yaaham/Nobo`
+* `git clone https://github.com/yaaham/Agenda`
 * `npm install`
 
 ## Running / Development
